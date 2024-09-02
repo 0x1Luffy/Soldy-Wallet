@@ -1,4 +1,9 @@
+
 # Soldy - A Solana Web3 Wallet
+
+<p align="center">
+  <img src="https://i.ibb.co/sPDg2kn/Screenshot-2024-09-02-185042.png" alt="Soldy Landing Page" width="600"/>
+</p>
 
 A simple web-based wallet for Solana, built using React and Alchemy. This wallet allows users to create a seed phrase, generate multiple wallets from that seed phrase, and view the balances of provided wallet addresses.
 
@@ -62,11 +67,8 @@ npm run build
 
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
-
 ## Acknowledgements
 
 - [React](https://reactjs.org/)
 - [Alchemy](https://www.alchemy.com/)
 - [Solana](https://solana.com/)
-
----
