@@ -2,7 +2,7 @@
 # Soldy - A Solana Web3 Wallet
 
 <p align="center">
-  <img src="https://i.ibb.co/sPDg2kn/Screenshot-2024-09-02-185042.png" alt="Soldy Landing Page" width="600"/>
+  <img src='https://i.postimg.cc/mkskV57g/Screenshot-2024-09-03-081724.png' border='0' alt='Soldy Wallet'/>
 </p>
 
 A simple web-based wallet for Solana, built using React and Alchemy. This wallet allows users to create a seed phrase, generate multiple wallets from that seed phrase, and view the balances of provided wallet addresses.
@@ -17,6 +17,9 @@ A simple web-based wallet for Solana, built using React and Alchemy. This wallet
 
 - **React**: Frontend framework for building the user interface.
 - **Alchemy**: Blockchain development platform for interacting with the Solana network.
+- **@solana/web3.js**: Solana's JavaScript API for interacting with the Solana blockchain.
+- **bs58 **: A library for Base58 encoding, often used for encoding keys in blockchain projects.
+- **bip39**: A library for working with BIP39 mnemonic phrases, used in generating seed phrases for wallets.
 
 ## Getting Started
 
@@ -29,7 +32,7 @@ A simple web-based wallet for Solana, built using React and Alchemy. This wallet
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/0x1Luffy/soldy-wallet.git
+   git clone https://github.com/0x1Luffy/Soldy-Wallet.git
    cd soldy-wallet
    ```
 
